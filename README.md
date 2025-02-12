@@ -1,4 +1,4 @@
-# AICTE-Internship--Potato-Leaf-Disease-Detection-project
+# AICTE-Internship-Potato-Leaf-Disease-Detection-project
 
 Potato Leaf Disease Detection
 
