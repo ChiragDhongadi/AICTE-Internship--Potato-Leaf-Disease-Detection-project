@@ -2,7 +2,8 @@
 
 # Potato Leaf Disease Detection
 
-[![Streamlit App](https://aicte-internship--potato-leaf-disease-detection-project-c4bckd.streamlit.app/)
+[![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.png)](https://aicte-internship--potato-leaf-disease-detection-project-c4bckd.streamlit.app/)
+
 
 ## 📌 Overview
 
