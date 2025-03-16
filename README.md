@@ -2,6 +2,8 @@
 
 # Potato Leaf Disease Detection
 
+[![Streamlit App](https://aicte-internship--potato-leaf-disease-detection-project-c4bckd.streamlit.app/)
+
 ## 📌 Overview
 
 This project aims to detect and classify potato leaf diseases using deep learning. It leverages a **Convolutional Neural Network (CNN)** trained on a dataset of potato leaf images to identify diseases such as **Late Blight, Early Blight, and Healthy leaves**. The system provides an easy-to-use interface for farmers and agricultural experts to upload leaf images and receive instant disease predictions.
