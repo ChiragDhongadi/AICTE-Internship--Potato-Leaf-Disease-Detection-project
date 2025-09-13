@@ -4,6 +4,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://aicte-internship--potato-leaf-disease-detection-project-c4bckd.streamlit.app/)
 
+☝️ **Click the above badge to view the live website**
 
 ## 📌 Overview
 
